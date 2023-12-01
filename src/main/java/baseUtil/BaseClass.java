@@ -10,6 +10,12 @@ import pages.HomePage;
 public class BaseClass {
 	public WebDriver driver;
 	public HomePage homePage;
+	
+	
+	
+	
+	
+	
 
 	@BeforeMethod
 	public void setUP() {
